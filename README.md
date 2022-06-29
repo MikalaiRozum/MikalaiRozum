@@ -10,7 +10,6 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <p align="right">
 <a href="https://github.com/MikalaiRozum">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MikalaiRozum&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MikalaiRozum&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
