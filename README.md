@@ -8,8 +8,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <a href="mikalai.rozum@gmail.com"><img src="https://img.shields.io/badge/-mikalai.rozum@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MikalaiRozum&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align="right"/>/>
-
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MikalaiRozum&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
