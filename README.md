@@ -7,11 +7,9 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :mailbox:How to reach me:  <a href="https://linkedin.com/in/mikalai-rozum-b6b068235"><img src="https://img.shields.io/badge/-mikalai.rozum-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mikalai.rozum@gmail.com"><img src="https://img.shields.io/badge/-mikalai.rozum@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-<p align="right">
-<a href="https://github.com/MikalaiRozum">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MikalaiRozum&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MikalaiRozum&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align="right"/>/>
+
 
 ### 🛠 &nbsp;Tech Stack
 
