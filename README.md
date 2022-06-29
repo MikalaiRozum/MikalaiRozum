@@ -4,8 +4,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :telescope: I'm looking for simple, beautiful and modern solutions to business problems
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I pursue investments and football.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rozum-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikalai-rozum-b6b068235/) 
-- <a href="https://linkedin.com/in/mikalai-rozum-b6b068235"><img src="https://img.shields.io/badge/-rozum-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+- :mailbox:How to reach me:  <a href="https://linkedin.com/in/mikalai-rozum-b6b068235"><img src="https://img.shields.io/badge/-rozum-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
