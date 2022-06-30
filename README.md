@@ -51,7 +51,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <td>Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Plotly.</td>
 </tr>
   
-#  Education:
+## Education:
 <table>
 <tr>
   <th>School</th>
