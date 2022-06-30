@@ -19,7 +19,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ![Apache Spark](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=)
 ![Apache Airflow](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Airflow&color=017CEE&logo=Apache+Airflow&logoColor=FFFFFF&label=)
 ![Apache Hive](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Hive&color=222222&logo=Apache+Hive&logoColor=FDEE21&label=)
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)\
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
