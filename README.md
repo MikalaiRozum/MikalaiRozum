@@ -1,5 +1,4 @@
 ![Screenshot](https://github.com/MikalaiRozum/MikalaiRozum/blob/main/Black1.png)
-![Screenshot](https://github.com/MikalaiRozum/MikalaiRozum/blob/main/About.png)
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with strong knowledge of Data Engineering.
 :telescope: I'm looking for simple, beautiful and modern solutions to business problems.
 :rocket: I have a creative approach to analysis and research.
