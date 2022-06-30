@@ -28,3 +28,13 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
 
 # My Projects:
+## Аналитика:
+<details open>
+  <summary>Список проектов по теме</summary>
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Источник проекта</th>
+  <th>Описание</th>
+  <th>Статус проекта</th>
+</tr> 
