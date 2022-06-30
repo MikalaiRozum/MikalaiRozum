@@ -61,7 +61,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <th>Graduation year</th>
 </tr> 
 <tr>
-  <td><a href = "https://www.psu.by/en/">Polotsk State University</a></td>
+  <td><a href = "https://www.psu.by/en/university/master-s-programmes/business-administration">Polotsk State University</a></td>
   <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/PSU1.jpg" alt=""></td>
   <td>Master of Business Administration - MBA, Risk Analysis</td>
   <td>2021</td>
