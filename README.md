@@ -50,3 +50,11 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <td>Customers are offered two tariff plans. It is necessary to make a preliminary analysis of tariffs on a small sample of customers in order to adjust the advertising budget</td>
   <td>Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Plotly.</td>
 </tr>
+  
+#  Education:
+<table>
+<tr>
+  <th>School</th>
+  <th>Degree</th>
+  <th>Graduation year</th>
+</tr> 
