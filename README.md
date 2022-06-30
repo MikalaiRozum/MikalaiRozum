@@ -52,11 +52,18 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 </tr>
 </table>
   
-## Education:
+# Education:
 <table>
 <tr>
   <th>School</th>
   <th>Degree</th>
   <th>Graduation year</th>
+</tr> 
+  <tr>
+  <td>
+   <p>Polotsk State University</p>
+  </td>
+  <td>Master of Business Administration - MBA, Risk Analysis</td>
+  <td>2021</td>
 </tr> 
 </table>
