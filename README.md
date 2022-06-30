@@ -43,3 +43,10 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <td>Prototype machine learning model for Polymetal. The company develops solutions for the efficient operation of industrial enterprises. The model must predict the gold recovery rate from gold ore.</td>
   <td>Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Plotly.</td>
 </tr>
+
+<tr>
+  <td><a href = "https://github.com/MikalaiRozum/Telecommunication_services">Determination of a prospective tariff for a telecom company</a></td>
+  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/yandex2.jpg" alt=""></td>
+  <td>Customers are offered two tariff plans. It is necessary to make a preliminary analysis of tariffs on a small sample of customers in order to adjust the advertising budget</td>
+  <td>Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Plotly.</td>
+</tr>
