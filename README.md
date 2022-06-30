@@ -39,7 +39,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 <tr>
   <td><a href = "https://github.com/MikalaiRozum/Gold_recovery_model">Prediction of gold recovery ratio from gold ore</a></td>
-  <td>https://github.com/MikalaiRozum/Brand/blob/main/Polymetal.png</td>
+  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/Polymetal.png" alt=""></td>
   <td>Определить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок</td>
-  <td>![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)</td>
+  <td><img src="[https://github.com/MikalaiRozum/Brand/blob/main/Polymetal.png](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)" alt=""></td>
 </tr>
