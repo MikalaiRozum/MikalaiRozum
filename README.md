@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text="Hello%20World"!&fontAlign=60&fontAlignY=40&color=auto)
 
 ### 🤓: About Me :
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with strong knowledge of Data Engineering.
@@ -29,5 +28,4 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ![Tableau](https://img.shields.io/static/v1?style=for-the-badge&message=Tableau&color=E97627&logo=Tableau&logoColor=FFFFFF&label=)
 ![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
 
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Come%20again!&fontSize=40&animation=twinkling)
 
