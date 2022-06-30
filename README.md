@@ -36,3 +36,10 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <th>Description</th>
   <th>Libraries</th>
 </tr> 
+
+<tr>
+  <td><a href = "https://github.com/MikalaiRozum/Gold_recovery_model">Prediction of gold recovery ratio from gold ore</a></td>
+  <td>https://github.com/MikalaiRozum/Brand/blob/main/Polymetal.png</td>
+  <td>Определить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок</td>
+  <td>Завершен</td>
+</tr>
