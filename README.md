@@ -39,7 +39,8 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 <tr>
   <td><a href = "https://github.com/MikalaiRozum/Gold_recovery_model">Prediction of gold recovery ratio from gold ore</a></td>
-  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/Polymetal.png" alt=""></td>
+  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/Polymetal.png" alt="">
+  <img src="https://github.com/MikalaiRozum/Brand/blob/main/Yandex.png" alt=""></td>
   <td>Prototype machine learning model for Polymetal. The company develops solutions for the efficient operation of industrial enterprises. The model must predict the gold recovery rate from gold ore.</td>
   <td>Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Plotly.</td>
 </tr>
