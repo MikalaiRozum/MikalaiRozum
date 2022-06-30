@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text="Hello%20World!"&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I'm%20Mikalai.%20Data%20Scientist%20from%20Belarus!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text="Hello%20World!"&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I'm%20Mikalai.%20Data%20Scientist%20from%20Belarus!&descAlignY=51&descAlign=62)
 ### 🤓: About Me :
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with strong knowledge of Data Engineering.
 - :telescope: I'm looking for simple, beautiful and modern solutions to business problems
