@@ -7,7 +7,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :mailbox:How to reach me:  <a href="https://linkedin.com/in/mikalai-rozum-b6b068235"><img src="https://img.shields.io/badge/-mikalai.rozum-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mikalai.rozum@gmail.com"><img src="https://img.shields.io/badge/-mikalai.rozum@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-![Screenshot](https://github.com/MikalaiRozum/MikalaiRozum/blob/main/Tech.png)
+![Screenshot](https://github.com/MikalaiRozum/MikalaiRozum/blob/main/Tech1.png)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
 ![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
