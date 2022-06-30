@@ -41,5 +41,5 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <td><a href = "https://github.com/MikalaiRozum/Gold_recovery_model">Prediction of gold recovery ratio from gold ore</a></td>
   <td>https://github.com/MikalaiRozum/Brand/blob/main/Polymetal.png</td>
   <td>Определить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок</td>
-  <td>Завершен</td>
+  <td>![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)</td>
 </tr>
