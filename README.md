@@ -66,4 +66,16 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <td>Master of Business Administration - MBA, Risk Analysis</td>
   <td>2021</td>
 </tr> 
+<tr>
+  <td><a href = "https://https://www.psu.by/en/">Polotsk State University</a></td>
+  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/PSU1.jpg" alt=""></td>
+  <td>Master of Technology - MTech</td>
+  <td>2019</td>
+</tr> 
+<tr>
+  <td><a href = "https://https://www.psu.by/en/">Polotsk State University</a></td>
+  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/PSU1.jpg" alt=""></td>
+  <td>Bachelor of Engineering - BE</td>
+  <td>2017</td>
+</tr> 
 </table>
