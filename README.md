@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text="Hello%20World"!&fontAlign=60&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text="Hello%20World"!&fontAlign=60&fontAlignY=40&color=auto)
 
 ### 🤓: About Me :
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with strong knowledge of Data Engineering.
