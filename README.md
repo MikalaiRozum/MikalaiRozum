@@ -53,6 +53,8 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 </table>
   
 # Education:
+<details open>
+  <summary>List of education</summary>
 <table>
 <tr>
   <th>School</th>
