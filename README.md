@@ -139,7 +139,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <tr>
   <td><a href = "https://stepik.org/course/63054/syllabus">Interactive SQL Trainer</a></td>
   <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/Stepik.jpg" alt=""></td>
-  <td>Tableau, Data Analysis, Microsoft Excel</td>
+  <td>Relational Model Basics and SQL, SQL queries against related tables, Database (MySQL, PostgreSQL), SQL user queries</td>
   <td>Completed</td>
 </tr>
 </table>
