@@ -120,3 +120,27 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 </tr>
 </table>
 </details>
+
+<details open>
+  <summary>Data Analysis</summary>
+<table>
+<tr>
+  <th>Course name</th>
+  <th>Shcool</th>
+  <th>Description</th>
+  <th>Status</th>
+</tr> 
+<tr>
+  <td><a href = "https://stepik.org/course/56280/syllabus">BI developer. Tableau Fundamentals</a></td>
+  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/Stepik.jpg" alt=""></td>
+  <td>Tableau, Data Analysis, Microsoft Excel</td>
+  <td>Completed</td>
+</tr>
+<tr>
+  <td><a href = "https://stepik.org/course/63054/syllabus">Interactive SQL Trainer</a></td>
+  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/Stepik.jpg" alt=""></td>
+  <td>Tableau, Data Analysis, Microsoft Excel</td>
+  <td>Completed</td>
+</tr>
+</table>
+</details>
