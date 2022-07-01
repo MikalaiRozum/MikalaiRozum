@@ -26,7 +26,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ![Tableau](https://img.shields.io/static/v1?style=for-the-badge&message=Tableau&color=E97627&logo=Tableau&logoColor=FFFFFF&label=)
 ![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
 
-# My Projects:
+## My Projects:
 <details open>
   <summary>List of projects</summary>
 <table>
@@ -53,7 +53,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 </table>
 </details>
   
-# Education:
+## Education:
 <details open>
   <summary>List of education</summary>
 <table>
@@ -81,5 +81,42 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <td>Bachelor of Engineering - BE</td>
   <td>2017</td>
 </tr> 
+</table>
+</details>
+
+## Professional courses:
+<details open>
+  <summary>Data Science</summary>
+<table>
+<tr>
+  <th>Course name</th>
+  <th>Shcool</th>
+  <th>Description</th>
+  <th>Status</th>
+</tr> 
+<tr>
+  <td><a href = "https://practicum.yandex.ru/data-scientist/">Data Scientist Professional Training Course</a></td>
+  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/YandexP.jpg" alt=""></td>
+  <td>Python, Data Preprocessing, Data Analysis, Machine learning, Time Series, NLP, CV, Deep Learning</td>
+  <td>Completed</td>
+</tr>
+</table>
+</details>
+
+<details open>
+  <summary>Data Engineering</summary>
+<table>
+<tr>
+  <th>Course name</th>
+  <th>Shcool</th>
+  <th>Description</th>
+  <th>Status</th>
+</tr> 
+<tr>
+  <td><a href = "https://inno.tech/">Data Engineer Trainee Program</a></td>
+  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/innotech.jpg" alt=""></td>
+  <td>Apache Spark, Hadoop, Apache Airflow, Docker, PostgreSQL(High), Arenadata</td>
+  <td>Completed</td>
+</tr>
 </table>
 </details>
