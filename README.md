@@ -104,6 +104,24 @@ I'm Mikalai , Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCE
 </details>
 
 <details open>
+  <summary>Crypto</summary>
+<table>
+<tr>
+  <th>Course name</th>
+  <th>Shcool</th>
+  <th>Description</th>
+  <th>Status</th>
+</tr> 
+<tr>
+  <td>Investment. Crypto projects and NFT.</td>
+  <td> </td>
+  <td>Analysis of crypto projects, search for profitable projects and early stage investment, ICO/IEO/IDO, passive and active investment strategies, NFT. </td>
+  <td>Completed</td>
+</tr>
+</table>
+</details>
+
+<details open>
   <summary>Data Engineering</summary>
 <table>
 <tr>
