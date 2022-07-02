@@ -104,24 +104,6 @@ I'm Mikalai , Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCE
 </details>
 
 <details open>
-  <summary>Crypto</summary>
-<table>
-<tr>
-  <th>Course name</th>
-  <th>Shcool</th>
-  <th>Description</th>
-  <th>Status</th>
-</tr> 
-<tr>
-  <td>Investment. Crypto projects and NFT.</td>
-  <td> </td>
-  <td>Analysis of crypto projects, search for profitable projects and early stage investment, ICO/IEO/IDO, passive and active investment strategies, NFT. </td>
-  <td>Completed</td>
-</tr>
-</table>
-</details>
-
-<details open>
   <summary>Data Engineering</summary>
 <table>
 <tr>
@@ -164,6 +146,24 @@ I'm Mikalai , Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCE
   <td><a href = "https://stepik.org/course/76/promo">Fundamentals of statistics (Part I)</a>, <a href = "https://stepik.org/course/524/promo">Fundamentals of statistics (Part II)</a>  </td>
   <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/Stepik.jpg" alt=""></td>
   <td>Mathematical statistics, analysis of nominative data, non-parametric criteria and methods of dimension reduction.</td>
+  <td>Completed</td>
+</tr>
+</table>
+</details>
+
+<details open>
+  <summary>Crypto</summary>
+<table>
+<tr>
+  <th>Course name</th>
+  <th>Shcool</th>
+  <th>Description</th>
+  <th>Status</th>
+</tr> 
+<tr>
+  <td>Investment. Crypto projects and NFT.</td>
+  <td>CryptoFarm</td>
+  <td>Analysis of crypto projects, search for profitable projects and early stage investment, ICO/IEO/IDO, passive and active investment strategies, NFT. </td>
   <td>Completed</td>
 </tr>
 </table>
