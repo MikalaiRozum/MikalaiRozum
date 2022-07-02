@@ -142,5 +142,11 @@ I'm Mikalai , Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCE
   <td>Relational Model Basics and SQL, SQL queries against related tables, Database (MySQL, PostgreSQL), SQL user queries</td>
   <td>Completed</td>
 </tr>
+<tr>
+  <td><a href = "https://stepik.org/course/76/promo">Fundamentals of statistics (Part I)</a>, <a href = "https://stepik.org/course/524/promo">Fundamentals of statistics (Part II)</a>  </td>
+  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/Stepik.jpg" alt=""></td>
+  <td>Relational Model Basics and SQL, SQL queries against related tables, Database (MySQL, PostgreSQL), SQL user queries</td>
+  <td>Completed</td>
+</tr>
 </table>
 </details>
