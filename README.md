@@ -168,7 +168,7 @@ I'm Mikalai , Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCE
 <tr>
   <td><a href = "https://github.com/MikalaiRozum/Brand/blob/main/PAUT1.jpg">Phased Array Ultrasonic Researching</a></td>
   <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/VUZ.EU.png" alt=""></td>
-  <td>Ultrasonic Testing Analysis, </td>
+  <td>Ultrasonic Testing Analysis </td>
   <td>Completed</td>
 </tr>
 </table>
