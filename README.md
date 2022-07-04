@@ -151,6 +151,30 @@ I'm Mikalai , Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCE
 </details>
 
 <details open>
+  <summary>NDT Analysis</summary>
+<table>
+<tr>
+  <th>Course name</th>
+  <th>Shcool</th>
+  <th>Description</th>
+  <th>Status</th>
+</tr> 
+<tr>
+  <td><a href = "https://github.com/MikalaiRozum/Brand/blob/main/CRT.png">Radiographic Researching</a></td>
+  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/VUZ.EU.png" alt=""></td>
+  <td>Radiography testing - digital and computed radiography, Computer vision for X-rays</td>
+  <td>Completed</td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/MikalaiRozum/Brand/blob/main/PAUT1.jpg">Phased Array Ultrasonic Researching</a></td>
+  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/VUZ.EU.png" alt=""></td>
+  <td>Ultrasonic Testing Analysis, </td>
+  <td>Completed</td>
+</tr>
+</table>
+</details>
+
+<details open>
   <summary>Crypto</summary>
 <table>
 <tr>
