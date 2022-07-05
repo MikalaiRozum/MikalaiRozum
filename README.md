@@ -175,7 +175,7 @@ I'm Mikalai , Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCE
 </details>
 
 <details open>
-  <summary>Crypto</summary>
+  <summary>Others</summary>
 <table>
 <tr>
   <th>Course name</th>
@@ -187,6 +187,12 @@ I'm Mikalai , Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCE
   <td>Investment. Crypto projects and NFT.</td>
   <td>CryptoFarm</td>
   <td>Analysis of crypto projects, search for profitable projects and early stage investment, ICO/IEO/IDO, passive and active investment strategies, NFT. </td>
+  <td>Completed</td>
+</tr>
+<tr>
+  <td>Barbara Oakley. Think like a mathematician.</td>
+  <td><https://github.com/MikalaiRozum/Brand/blob/main/coursera.jpg" alt=""></td>
+  <td>Think like a mathematician. How to solve any problems faster and more efficiently. </td>
   <td>Completed</td>
 </tr>
 </table>
