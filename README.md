@@ -43,6 +43,12 @@ I'm Mikalai , Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCE
   <td>Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Plotly.</td>
 </tr>
 <tr>
+  <td><a href = "https://github.com/MikalaiRozum/NLP_stop_words">NLP. Classification model for toxic comments</a></td>
+  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/wikishop.png" alt=""></td>
+  <td>The store needs a tool that will look for toxic comments and submit them for moderation. It was necessary to train the model to classify comments into positive and negative ones.</td>
+  <td>Pandas, Numpy, Sklearn, Matplotlib, Pymystem3, NLTK</td>
+</tr>
+<tr>
   <td><a href = "https://github.com/MikalaiRozum/Telecommunication_services">Determination of a prospective tariff for a telecom company</a></td>
   <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/yandex2.jpg" alt=""></td>
   <td>Customers are offered two tariff plans. It is necessary to make a preliminary analysis of tariffs on a small sample of customers in order to adjust the advertising budget</td>
