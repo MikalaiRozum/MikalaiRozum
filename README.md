@@ -195,5 +195,11 @@ I'm Mikalai , Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCE
   <td>Think like a mathematician. How to solve any problems faster and more efficiently. </td>
   <td>Completed</td>
 </tr>
+<tr>
+  <td>Preparing for an Algorithmic Interview</td>
+  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/YandexP.jpg" alt=""></td>
+  <td>Python, algorithms and data structures.</td>
+  <td>Completed</td>
+</tr>
 </table>
 </details>
