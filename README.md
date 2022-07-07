@@ -60,6 +60,12 @@ I'm Mikalai , Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCE
   <td>In order to attract more drivers during the peak period, I needed to predict the number of taxi orders for the next hour. I built models for such a prediction.</td>
   <td>Pandas, Numpy, Sklearn, Matplotlib, Plotly.</td>
 </tr>
+<tr>
+  <td><a href = "https://github.com/MikalaiRozum/PySpark_My_code">Examples of my data queries.</a></td>
+  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/innotech.jpg" alt=""></td>
+  <td>Data marts. PySpark code examples for working with data. Data analysis, data outliers and quality control.</td>
+  <td>PySpark, SQL, Zeppelin.</td>
+</tr>
 </table>
 </details>
   
