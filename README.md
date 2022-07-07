@@ -66,6 +66,12 @@ I'm Mikalai , Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCE
   <td>Data marts. PySpark code examples for working with data. Data analysis, data outliers and quality control.</td>
   <td>PySpark, SQL, Zeppelin.</td>
 </tr>
+<tr>
+  <td><a href = "https://github.com/MikalaiRozum/stocks_price_LSTM_basic"></a></td>
+  <td></td>
+  <td>At the moment, the model looks well trained but predicts unexpected results in the future.</td>
+  <td>Python, Numpy, Tensorflow, Keras, Plotly.</td>
+</tr>
 </table>
 </details>
   
