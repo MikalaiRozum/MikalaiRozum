@@ -137,7 +137,7 @@ I'm Mikalai , Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCE
 <tr>
   <td><a href = "https://inno.tech/">Data Engineer Trainee Program</a></td>
   <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/innotech.jpg" alt=""></td>
-  <td>Apache Spark, Hadoop, Apache Airflow, Docker, PostgreSQL(High), Arenadata</td>
+  <td>Apache Spark, Hadoop, Apache Airflow, Docker, PostgreSQL, Arenadata</td>
   <td>Completed</td>
 </tr>
 </table>
