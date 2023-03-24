@@ -1,5 +1,5 @@
 # "Hello World!"👨‍💻
-I'm Mikalai , Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm Mikalai , Data Analyst.  
 :telescope: I'm looking for simple, beautiful and modern solutions to business problems.   
  :zap: In my free time, I pursue investments and football.     
 :mailbox:How to reach me:  <a href="https://linkedin.com/in/mikalai-rozum-b6b068235"><img src="https://img.shields.io/badge/-mikalai.rozum-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
