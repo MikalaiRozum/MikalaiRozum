@@ -113,7 +113,7 @@
 </tr> 
 <tr>
   <td><a href = "https://practicum.yandex.ru/data-scientist/">Data Scientist Professional Training Course</a></td>
-  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/YandexP.jpg" alt=""></td>
+  <td></td>
   <td>Python, Data Preprocessing, Data Analysis, Machine learning, Time Series, NLP, CV, Deep Learning</td>
   <td>Completed</td>
 </tr>
@@ -131,7 +131,7 @@
 </tr> 
 <tr>
   <td><a href = "https://inno.tech/">Data Engineer Trainee Program</a></td>
-  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/innotech.jpg" alt=""></td>
+  <td></td>
   <td>Apache Spark, Hadoop, Apache Airflow, Docker, PostgreSQL, Arenadata</td>
   <td>Completed</td>
 </tr>
