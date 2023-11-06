@@ -5,7 +5,7 @@
 :mailbox:How to reach me:  <a href="https://linkedin.com/in/mikalai-rozum-b6b068235"><img src="https://img.shields.io/badge/-mikalai.rozum-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mikalai.rozum@gmail.com"><img src="https://img.shields.io/badge/-mikalai.rozum@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 ## TechStack 🛠️
-![GCP]([https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=GCP&logoColor=white](https://camo.githubusercontent.com/d490f841cd3ac7114d06db92a446ca16a6c1cd64ab6bcbf1c3d29ee0351922d3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d476f6f676c652b426967517565727926636f6c6f723d363639444636266c6f676f3d476f6f676c652b4269675175657279266c6f676f436f6c6f723d464646464646266c6162656c3d))
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white).
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
