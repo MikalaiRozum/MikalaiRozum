@@ -33,44 +33,37 @@
 <table>
 <tr>
   <th>Project name</th>
-  <th>Project customer</th>
   <th>Description</th>
   <th>Libraries</th>
 </tr> 
 
 <tr>
   <td><a href = "https://github.com/MikalaiRozum/Gold_recovery_model">Prediction of gold recovery ratio from gold ore</a></td>
-  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/Polymetal1.jpg" alt=""></td>
   <td>Prototype machine learning model for Polymetal. The company develops solutions for the efficient operation of industrial enterprises. The model must predict the gold recovery rate from gold ore.</td>
   <td>Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Plotly.</td>
 </tr>
 <tr>
   <td><a href = "https://github.com/MikalaiRozum/NLP_stop_words">NLP. Classification model for toxic comments</a></td>
-  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/wikishop.png" alt=""></td>
   <td>The store needs a tool that will look for toxic comments and submit them for moderation. It was necessary to train the model to classify comments into positive and negative ones.</td>
   <td>Pandas, Numpy, Sklearn, Matplotlib, Pymystem3, NLTK</td>
 </tr>
 <tr>
   <td><a href = "https://github.com/MikalaiRozum/Telecommunication_services">Determination of a prospective tariff for a telecom company</a></td>
-  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/yandex2.jpg" alt=""></td>
   <td>Customers are offered two tariff plans. It is necessary to make a preliminary analysis of tariffs on a small sample of customers in order to adjust the advertising budget</td>
   <td>Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Plotly.</td>
 </tr>
 <tr>
   <td><a href = "https://github.com/MikalaiRozum/Time_series_forecasting_taxi">Forecasting taxi orders for the next hour</a></td>
-  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/YandexP.jpg" alt=""></td>
   <td>In order to attract more drivers during the peak period, I needed to predict the number of taxi orders for the next hour. I built models for such a prediction.</td>
   <td>Pandas, Numpy, Sklearn, Matplotlib, Plotly.</td>
 </tr>
 <tr>
   <td><a href = "https://github.com/MikalaiRozum/PySpark_My_code">PySpark data analysis.</a></td>
-  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/innotech.jpg" alt=""></td>
   <td>Data marts. PySpark code examples for working with data. Data analysis, data outliers and quality control.</td>
   <td>PySpark, SQL, Zeppelin.</td>
 </tr>
 <tr>
   <td><a href = "https://github.com/MikalaiRozum/stocks_price_LSTM_basic">Neural network. Stocks price. LSTM.</a></td>
-  <td></td>
   <td>At the moment, the model looks well trained but predicts unexpected results in the future.</td>
   <td>Python, Numpy, Tensorflow, Keras, Plotly.</td>
 </tr>
