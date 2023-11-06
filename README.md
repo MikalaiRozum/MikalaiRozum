@@ -5,7 +5,7 @@
 :mailbox:How to reach me:  <a href="https://linkedin.com/in/mikalai-rozum-b6b068235"><img src="https://img.shields.io/badge/-mikalai.rozum-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mikalai.rozum@gmail.com"><img src="https://img.shields.io/badge/-mikalai.rozum@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 ## TechStack 🛠️
-![GCP](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![GCP](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=GCP&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
