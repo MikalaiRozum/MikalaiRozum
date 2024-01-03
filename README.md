@@ -209,7 +209,7 @@
 </tr>
 <tr>
   <td>Barbara Oakley. Think like a mathematician.</td>
-  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/coursera.jpg" alt=""></td>
+  <td><></td>
   <td>Think like a mathematician. How to solve any problems faster and more efficiently. </td>
   <td>Completed</td>
 </tr>
