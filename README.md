@@ -209,13 +209,13 @@
 </tr>
 <tr>
   <td>Barbara Oakley. Think like a mathematician.</td>
-  <td><></td>
+  <td></td>
   <td>Think like a mathematician. How to solve any problems faster and more efficiently. </td>
   <td>Completed</td>
 </tr>
 <tr>
   <td>Preparing for an Algorithmic Interview</td>
-  <td><img src="https://github.com/MikalaiRozum/Brand/blob/main/YandexP.jpg" alt=""></td>
+  <td></td>
   <td>Python, algorithms and data structures.</td>
   <td>Completed</td>
 </tr>
